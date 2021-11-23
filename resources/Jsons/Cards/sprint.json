@@ -1,0 +1,18 @@
+{
+  "model": "sprint",
+  "name": "Sprint",
+  "description": "Draw 4 Cards.",
+  "manaCost": 7,
+  "type": "Spell",
+  "heroClass": "Neutral",
+  "rarity": "Common",
+  "price": 20,
+  "attributes": [],
+  "needFriendlyTarget": false,
+  "needEnemyTarget": false,
+  "continiousAction": false,
+  "healthRestore": 0,
+  "attackRestore": 0,
+  "usageTimes": 1,
+  "manaSpendOnSth": 0
+}
